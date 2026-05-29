@@ -1,10 +1,10 @@
 # Challenge Name: Password Profiler
 
-**CTF:** 
+**CTF:**  
 **Category: General skills**  
-**Difficulty: Low** 
-**Points: 100** 
-**Date: 29-05-26** 
+**Difficulty: Low**  
+**Points: 100**  
+**Date: 29-05-26**  
 
 ---
 

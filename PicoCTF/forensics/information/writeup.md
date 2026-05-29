@@ -1,10 +1,10 @@
 # Challenge Name: Information
 
-**CTF:** 
+**CTF:**  
 **Category: Forensics**   
 **Difficulty: Easy**  
-**Points: 10** 
-**Date: 28-05-26** 
+**Points: 10**  
+**Date: 28-05-26**  
 
 ---
 
